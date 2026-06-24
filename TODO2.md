@@ -1,10 +1,9 @@
-# TODO: Social Links + Coin Snow Effect
+# TODO2
 
-## Plan Breakdown
-1. ✅ Create TODO2.md
-2. ✅ Update index.html footer-contact email + add website link
-3. ✅ Add Facebook social link + update Instagram href in index.html
-4. ✅ Add coin snow effect in script.js (50-80 $ ¢ ¥ ₿ symbols falling like snow)
-5. ✅ Add coin CSS styles in style.css
-6. ✅ Test on mobile + adjust density (responsive count/font-size)
-7. ✅ Complete: Social links updated, coin snow effect added across site
+## Atualização: modal para “Falar com atendente” no chatbot
+
+- [x] 1) Inserir o HTML do modal #lead-modal no index.html (ainda não existe no arquivo atual).
+- [x] 2) Trocar a action do bot `talk_human` para abrir o modal (em vez de abrir WhatsApp direto).
+- [x] 3) Garantir que o modal sobresponha o chatbot e que o submit continue enviando para o WhatsApp do atendente selecionado (`attendants[currentAtt]`).
+- [x] 4) Testar abrindo o chat e clicando em “Falar com atendente”.
+
