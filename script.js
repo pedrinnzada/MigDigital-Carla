@@ -445,7 +445,7 @@ window.addEventListener('scroll',()=>{
 
   const botResponses = {
     start: {
-      text: "Olá! Seja bem-vindo(a) à Mig Digital Empréstimos. Recebemos sua mensagem e em breve o David fará seu atendimento.",
+      text: "Olá! Seja bem-vindo(a) à Mig Digital Empréstimos. Recebemos sua mensagem e em breve a Carla fará seu atendimento.",
       options: [
         { text: "Como funciona?", id: "how_works" },
         { text: "Localização", id: "location" },
